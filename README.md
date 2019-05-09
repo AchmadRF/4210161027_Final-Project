@@ -10,4 +10,3 @@ game yang akan saya buat adalah mengenai kompetisi memanah. Pemain saling berkom
 
 Teknologi : Game ini menggunakan arsitektur UDP sebagai dasar koneksinya
 
-saya do saja
