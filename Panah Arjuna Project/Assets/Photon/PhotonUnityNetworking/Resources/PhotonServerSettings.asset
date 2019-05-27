@@ -17,8 +17,8 @@ MonoBehaviour:
     AppIdVoice: 
     AppVersion: 0.0.1
     UseNameServer: 1
-    FixedRegion: ASIA
-    Server: USSR
+    FixedRegion: 
+    Server: 
     Port: 1123
     Protocol: 0
     EnableLobbyStatistics: 0
