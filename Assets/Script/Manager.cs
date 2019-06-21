@@ -6,6 +6,7 @@ using Photon.Pun;
 public class Manager : MonoBehaviour {
 
     public GameObject PlayerPref;
+    public GameObject PlayerPref2;
     public GameObject arrow;
     public Transform SpawnPoints;
     public Transform SpawnPoints2;
@@ -21,6 +22,11 @@ public class Manager : MonoBehaviour {
         }
 	}
 
+    void SpawnObstacle()
+    {
+
+    }
+
     void SpawnPlayer()
     {
         PhotonNetwork.Instantiate(PlayerPref.name, SpawnPoints.position, Quaternion.identity);
@@ -28,7 +34,7 @@ public class Manager : MonoBehaviour {
 
     void SpawnPlayer2()
     {
-        PhotonNetwork.Instantiate(PlayerPref.name, SpawnPoints2.position, Quaternion.identity);
+        PhotonNetwork.Instantiate(PlayerPref2.name, SpawnPoints2.position, Quaternion.identity);
     }
 
     void Fire()
