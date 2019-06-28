@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.games.gpgs-plugin-support-0.9.64.aar\31300697fef66c7a5404cf32667e6f14\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="28.0.3"
+        sha1="9f794cba2a866f2c02616fc63c34a2e5a2b71914">
+        <dex dex="C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\GooglePlayGamesManifest.plugin\build\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="28.0.3"
+        sha1="f3dfc3ec43a715236e4e6a48a03dfb473701f859">
+        <dex dex="C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+
+</items>

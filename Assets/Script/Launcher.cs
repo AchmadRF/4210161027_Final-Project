@@ -10,6 +10,7 @@ public class Launcher : MonoBehaviourPunCallbacks {
 	void Start()
     {
         PhotonNetwork.ConnectUsingSettings();
+        Debug.Log("connected to server");
     }
 	
     public override void OnConnectedToMaster()
@@ -20,12 +21,14 @@ public class Launcher : MonoBehaviourPunCallbacks {
     {
         //Terserah;
     }
-    public override void OnJoinedLobby()
+    /*public override void OnJoinedLobby()
     {
         //Terserah
-    }
+    }*/
     // Update is called once per frame
-    void Update () {
-		
-	}
+    void Update()
+    {
+
+    }
+    
 }

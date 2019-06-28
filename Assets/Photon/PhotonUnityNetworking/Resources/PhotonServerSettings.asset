@@ -22,7 +22,7 @@ MonoBehaviour:
     Port: 1123
     Protocol: 0
     EnableLobbyStatistics: 0
-    NetworkLogging: 1
+    NetworkLogging: 5
   StartInOfflineMode: 0
   PunLogging: 1
   EnableSupportLogger: 0
@@ -31,5 +31,6 @@ MonoBehaviour:
   - DestroySpaceship
   - Fire
   - RespawnSpaceship
+  - Destroy
   DisableAutoOpenWizard: 1
   ShowSettings: 1

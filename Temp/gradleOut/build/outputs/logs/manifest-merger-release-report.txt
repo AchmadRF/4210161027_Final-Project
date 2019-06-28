@@ -1,0 +1,313 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\android.arch.lifecycle.runtime-1.0.0.aar\e80a4c56228a244d100ed7dceb8acdd5\AndroidManifest.xml:17:1-30:12
+MERGED from [:com.android.support.support-compat-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-compat-26.1.0.aar\94689bf83272876fd9260ebd68e2c418\AndroidManifest.xml:17:1-31:12
+MERGED from [:com.android.support.support-core-ui-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-core-ui-26.1.0.aar\90010cef8a75d27fe3aa2af39961bd40\AndroidManifest.xml:17:1-31:12
+MERGED from [:com.android.support.support-core-utils-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-core-utils-26.1.0.aar\59711ac2094d263bdf4fd9343599cd22\AndroidManifest.xml:17:1-31:12
+MERGED from [:com.android.support.support-fragment-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-fragment-26.1.0.aar\8c5ac95b656aba73c181e1336b1c5a9c\AndroidManifest.xml:17:1-31:12
+MERGED from [:com.android.support.support-media-compat-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-media-compat-26.1.0.aar\7c5b946cf03d2609e16a94334764db46\AndroidManifest.xml:17:1-31:12
+MERGED from [:com.android.support.support-v4-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-v4-26.1.0.aar\e760803c360e61b44d7c995874d5d352\AndroidManifest.xml:17:1-31:12
+MERGED from [:com.google.android.gms.play-services-auth-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-auth-16.0.1.aar\147db7b6615187bc3821fe2d0584f37c\AndroidManifest.xml:17:1-39:12
+MERGED from [:com.google.android.gms.play-services-auth-api-phone-16.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-auth-api-phone-16.0.0.aar\0e41212a52871e8085abb842d4a30a14\AndroidManifest.xml:2:1-7:12
+MERGED from [:com.google.android.gms.play-services-auth-base-16.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-auth-base-16.0.0.aar\da422cea766c54a157d2f786ba9eb63b\AndroidManifest.xml:2:1-7:12
+MERGED from [:com.google.android.gms.play-services-base-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-base-16.0.1.aar\1f2a49daa2704e529bc4e3c79c4af49e\AndroidManifest.xml:17:1-29:12
+MERGED from [:com.google.android.gms.play-services-basement-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-basement-16.0.1.aar\ac2d15690fcd68aecba67539655297be\AndroidManifest.xml:17:1-28:12
+MERGED from [:com.google.android.gms.play-services-drive-16.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-drive-16.0.0.aar\a01d601c4ce6c549d1566fae6fd25ced\AndroidManifest.xml:17:1-24:12
+MERGED from [:com.google.android.gms.play-services-games-17.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-games-17.0.0.aar\b5a7d6bf95953a9ba51951809571ecc4\AndroidManifest.xml:17:1-24:12
+MERGED from [:com.google.android.gms.play-services-nearby-16.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-nearby-16.0.0.aar\3844fb5c1b97203ed75a0ecb51641a15\AndroidManifest.xml:2:1-11:12
+MERGED from [:com.google.android.gms.play-services-tasks-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-tasks-16.0.1.aar\8b3664d5c183202bf23b9d6e0cb7aeea\AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.games.gpgs-plugin-support-0.9.64:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.games.gpgs-plugin-support-0.9.64.aar\31300697fef66c7a5404cf32667e6f14\AndroidManifest.xml:2:1-11:12
+MERGED from [:GooglePlayGamesManifest.plugin] C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\GooglePlayGamesManifest.plugin\build\intermediates\manifests\full\release\AndroidManifest.xml:6:1-32:12
+INJECTED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:2:70-102
+		INJECTED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:2:103-149
+	android:versionCode
+		INJECTED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:2:150-190
+supports-screens
+ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:4:3-16:17
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\android.arch.lifecycle.runtime-1.0.0.aar\e80a4c56228a244d100ed7dceb8acdd5\AndroidManifest.xml:24:5-28:19
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\android.arch.lifecycle.runtime-1.0.0.aar\e80a4c56228a244d100ed7dceb8acdd5\AndroidManifest.xml:24:5-28:19
+MERGED from [:com.android.support.support-compat-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-compat-26.1.0.aar\94689bf83272876fd9260ebd68e2c418\AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-compat-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-compat-26.1.0.aar\94689bf83272876fd9260ebd68e2c418\AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-core-ui-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-core-ui-26.1.0.aar\90010cef8a75d27fe3aa2af39961bd40\AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-core-ui-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-core-ui-26.1.0.aar\90010cef8a75d27fe3aa2af39961bd40\AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-core-utils-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-core-utils-26.1.0.aar\59711ac2094d263bdf4fd9343599cd22\AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-core-utils-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-core-utils-26.1.0.aar\59711ac2094d263bdf4fd9343599cd22\AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-fragment-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-fragment-26.1.0.aar\8c5ac95b656aba73c181e1336b1c5a9c\AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-fragment-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-fragment-26.1.0.aar\8c5ac95b656aba73c181e1336b1c5a9c\AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-media-compat-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-media-compat-26.1.0.aar\7c5b946cf03d2609e16a94334764db46\AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-media-compat-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-media-compat-26.1.0.aar\7c5b946cf03d2609e16a94334764db46\AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-v4-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-v4-26.1.0.aar\e760803c360e61b44d7c995874d5d352\AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-v4-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-v4-26.1.0.aar\e760803c360e61b44d7c995874d5d352\AndroidManifest.xml:25:5-29:19
+MERGED from [:com.google.android.gms.play-services-auth-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-auth-16.0.1.aar\147db7b6615187bc3821fe2d0584f37c\AndroidManifest.xml:22:5-37:19
+MERGED from [:com.google.android.gms.play-services-auth-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-auth-16.0.1.aar\147db7b6615187bc3821fe2d0584f37c\AndroidManifest.xml:22:5-37:19
+MERGED from [:com.google.android.gms.play-services-base-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-base-16.0.1.aar\1f2a49daa2704e529bc4e3c79c4af49e\AndroidManifest.xml:22:5-27:19
+MERGED from [:com.google.android.gms.play-services-base-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-base-16.0.1.aar\1f2a49daa2704e529bc4e3c79c4af49e\AndroidManifest.xml:22:5-27:19
+MERGED from [:com.google.android.gms.play-services-basement-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-basement-16.0.1.aar\ac2d15690fcd68aecba67539655297be\AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-basement-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-basement-16.0.1.aar\ac2d15690fcd68aecba67539655297be\AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-drive-16.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-drive-16.0.0.aar\a01d601c4ce6c549d1566fae6fd25ced\AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-drive-16.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-drive-16.0.0.aar\a01d601c4ce6c549d1566fae6fd25ced\AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-games-17.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-games-17.0.0.aar\b5a7d6bf95953a9ba51951809571ecc4\AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-games-17.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-games-17.0.0.aar\b5a7d6bf95953a9ba51951809571ecc4\AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-nearby-16.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-nearby-16.0.0.aar\3844fb5c1b97203ed75a0ecb51641a15\AndroidManifest.xml:9:5-20
+MERGED from [:com.google.android.gms.play-services-nearby-16.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-nearby-16.0.0.aar\3844fb5c1b97203ed75a0ecb51641a15\AndroidManifest.xml:9:5-20
+MERGED from [:com.google.android.gms.play-services-tasks-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-tasks-16.0.1.aar\8b3664d5c183202bf23b9d6e0cb7aeea\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-tasks-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-tasks-16.0.1.aar\8b3664d5c183202bf23b9d6e0cb7aeea\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.games.gpgs-plugin-support-0.9.64:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.games.gpgs-plugin-support-0.9.64.aar\31300697fef66c7a5404cf32667e6f14\AndroidManifest.xml:9:5-20
+MERGED from [:com.google.games.gpgs-plugin-support-0.9.64:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.games.gpgs-plugin-support-0.9.64.aar\31300697fef66c7a5404cf32667e6f14\AndroidManifest.xml:9:5-20
+MERGED from [:GooglePlayGamesManifest.plugin] C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\GooglePlayGamesManifest.plugin\build\intermediates\manifests\full\release\AndroidManifest.xml:15:5-30:19
+MERGED from [:GooglePlayGamesManifest.plugin] C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\GooglePlayGamesManifest.plugin\build\intermediates\manifests\full\release\AndroidManifest.xml:15:5-30:19
+	android:label
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:4:90-122
+	android:icon
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:4:58-89
+	android:banner
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:4:145-182
+	android:theme
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:4:16-57
+	android:isGame
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:4:123-144
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:5:5-12:16
+	android:screenOrientation
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:5:102-139
+	android:label
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:5:69-101
+	android:launchMode
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:5:140-171
+	android:hardwareAccelerated
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:5:354-389
+	android:configChanges
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:5:172-353
+	android:name
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:5:15-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+android.intent.category.LEANBACK_LAUNCHER
+ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:6:7-10:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:8:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:9:9-78
+	android:name
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:9:19-75
+meta-data#unityplayer.UnityActivity
+ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:11:7-82
+	android:value
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:11:59-79
+	android:name
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:11:18-58
+meta-data#unity.build-id
+ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:13:5-101
+	android:value
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:13:46-98
+	android:name
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:13:16-45
+meta-data#unity.splash-mode
+ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:14:5-69
+	android:value
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:14:49-66
+	android:name
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:14:16-48
+meta-data#unity.splash-enable
+ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:15:5-74
+	android:value
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:15:51-71
+	android:name
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:15:16-50
+uses-feature#0x00020000
+ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:17:3-52
+	android:glEsVersion
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:17:17-49
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:18:3-65
+	android:name
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:18:20-62
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:19:3-97
+	android:required
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:19:70-94
+	android:name
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:19:17-69
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:20:3-88
+	android:required
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:20:61-85
+	android:name
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:20:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:21:3-99
+	android:required
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:21:72-96
+	android:name
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:21:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:22:3-108
+	android:required
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:22:81-105
+	android:name
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml:22:17-80
+uses-sdk
+INJECTED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\android.arch.lifecycle.runtime-1.0.0.aar\e80a4c56228a244d100ed7dceb8acdd5\AndroidManifest.xml:20:5-22:41
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\android.arch.lifecycle.runtime-1.0.0.aar\e80a4c56228a244d100ed7dceb8acdd5\AndroidManifest.xml:20:5-22:41
+MERGED from [:com.android.support.support-compat-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-compat-26.1.0.aar\94689bf83272876fd9260ebd68e2c418\AndroidManifest.xml:21:5-23:58
+MERGED from [:com.android.support.support-compat-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-compat-26.1.0.aar\94689bf83272876fd9260ebd68e2c418\AndroidManifest.xml:21:5-23:58
+MERGED from [:com.android.support.support-core-ui-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-core-ui-26.1.0.aar\90010cef8a75d27fe3aa2af39961bd40\AndroidManifest.xml:21:5-23:58
+MERGED from [:com.android.support.support-core-ui-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-core-ui-26.1.0.aar\90010cef8a75d27fe3aa2af39961bd40\AndroidManifest.xml:21:5-23:58
+MERGED from [:com.android.support.support-core-utils-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-core-utils-26.1.0.aar\59711ac2094d263bdf4fd9343599cd22\AndroidManifest.xml:21:5-23:61
+MERGED from [:com.android.support.support-core-utils-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-core-utils-26.1.0.aar\59711ac2094d263bdf4fd9343599cd22\AndroidManifest.xml:21:5-23:61
+MERGED from [:com.android.support.support-fragment-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-fragment-26.1.0.aar\8c5ac95b656aba73c181e1336b1c5a9c\AndroidManifest.xml:21:5-23:60
+MERGED from [:com.android.support.support-fragment-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-fragment-26.1.0.aar\8c5ac95b656aba73c181e1336b1c5a9c\AndroidManifest.xml:21:5-23:60
+MERGED from [:com.android.support.support-media-compat-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-media-compat-26.1.0.aar\7c5b946cf03d2609e16a94334764db46\AndroidManifest.xml:21:5-23:63
+MERGED from [:com.android.support.support-media-compat-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-media-compat-26.1.0.aar\7c5b946cf03d2609e16a94334764db46\AndroidManifest.xml:21:5-23:63
+MERGED from [:com.android.support.support-v4-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-v4-26.1.0.aar\e760803c360e61b44d7c995874d5d352\AndroidManifest.xml:21:5-23:54
+MERGED from [:com.android.support.support-v4-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-v4-26.1.0.aar\e760803c360e61b44d7c995874d5d352\AndroidManifest.xml:21:5-23:54
+MERGED from [:com.google.android.gms.play-services-auth-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-auth-16.0.1.aar\147db7b6615187bc3821fe2d0584f37c\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-auth-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-auth-16.0.1.aar\147db7b6615187bc3821fe2d0584f37c\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-auth-api-phone-16.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-auth-api-phone-16.0.0.aar\0e41212a52871e8085abb842d4a30a14\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-auth-api-phone-16.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-auth-api-phone-16.0.0.aar\0e41212a52871e8085abb842d4a30a14\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-auth-base-16.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-auth-base-16.0.0.aar\da422cea766c54a157d2f786ba9eb63b\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-auth-base-16.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-auth-base-16.0.0.aar\da422cea766c54a157d2f786ba9eb63b\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-base-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-base-16.0.1.aar\1f2a49daa2704e529bc4e3c79c4af49e\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-base-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-base-16.0.1.aar\1f2a49daa2704e529bc4e3c79c4af49e\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-basement-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-basement-16.0.1.aar\ac2d15690fcd68aecba67539655297be\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-basement-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-basement-16.0.1.aar\ac2d15690fcd68aecba67539655297be\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-drive-16.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-drive-16.0.0.aar\a01d601c4ce6c549d1566fae6fd25ced\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-drive-16.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-drive-16.0.0.aar\a01d601c4ce6c549d1566fae6fd25ced\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-games-17.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-games-17.0.0.aar\b5a7d6bf95953a9ba51951809571ecc4\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-games-17.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-games-17.0.0.aar\b5a7d6bf95953a9ba51951809571ecc4\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-nearby-16.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-nearby-16.0.0.aar\3844fb5c1b97203ed75a0ecb51641a15\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-nearby-16.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-nearby-16.0.0.aar\3844fb5c1b97203ed75a0ecb51641a15\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-tasks-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-tasks-16.0.1.aar\8b3664d5c183202bf23b9d6e0cb7aeea\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-tasks-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-tasks-16.0.1.aar\8b3664d5c183202bf23b9d6e0cb7aeea\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.games.gpgs-plugin-support-0.9.64:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.games.gpgs-plugin-support-0.9.64.aar\31300697fef66c7a5404cf32667e6f14\AndroidManifest.xml:7:5-44
+MERGED from [:com.google.games.gpgs-plugin-support-0.9.64:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.games.gpgs-plugin-support-0.9.64.aar\31300697fef66c7a5404cf32667e6f14\AndroidManifest.xml:7:5-44
+MERGED from [:GooglePlayGamesManifest.plugin] C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\GooglePlayGamesManifest.plugin\build\intermediates\manifests\full\release\AndroidManifest.xml:11:5-13:41
+MERGED from [:GooglePlayGamesManifest.plugin] C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\GooglePlayGamesManifest.plugin\build\intermediates\manifests\full\release\AndroidManifest.xml:11:5-13:41
+INJECTED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:com.android.support.support-compat-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-compat-26.1.0.aar\94689bf83272876fd9260ebd68e2c418\AndroidManifest.xml:23:9-55
+	android:targetSdkVersion
+		INJECTED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\src\main\AndroidManifest.xml
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [:android.arch.lifecycle.runtime-1.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\android.arch.lifecycle.runtime-1.0.0.aar\e80a4c56228a244d100ed7dceb8acdd5\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [:android.arch.lifecycle.runtime-1.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\android.arch.lifecycle.runtime-1.0.0.aar\e80a4c56228a244d100ed7dceb8acdd5\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [:android.arch.lifecycle.runtime-1.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\android.arch.lifecycle.runtime-1.0.0.aar\e80a4c56228a244d100ed7dceb8acdd5\AndroidManifest.xml:26:13-58
+meta-data#android.support.VERSION
+ADDED from [:com.android.support.support-compat-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-compat-26.1.0.aar\94689bf83272876fd9260ebd68e2c418\AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-core-ui-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-core-ui-26.1.0.aar\90010cef8a75d27fe3aa2af39961bd40\AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-core-ui-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-core-ui-26.1.0.aar\90010cef8a75d27fe3aa2af39961bd40\AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-core-utils-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-core-utils-26.1.0.aar\59711ac2094d263bdf4fd9343599cd22\AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-core-utils-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-core-utils-26.1.0.aar\59711ac2094d263bdf4fd9343599cd22\AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-fragment-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-fragment-26.1.0.aar\8c5ac95b656aba73c181e1336b1c5a9c\AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-fragment-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-fragment-26.1.0.aar\8c5ac95b656aba73c181e1336b1c5a9c\AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-media-compat-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-media-compat-26.1.0.aar\7c5b946cf03d2609e16a94334764db46\AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-media-compat-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-media-compat-26.1.0.aar\7c5b946cf03d2609e16a94334764db46\AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-v4-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-v4-26.1.0.aar\e760803c360e61b44d7c995874d5d352\AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-v4-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-v4-26.1.0.aar\e760803c360e61b44d7c995874d5d352\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [:com.android.support.support-compat-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-compat-26.1.0.aar\94689bf83272876fd9260ebd68e2c418\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [:com.android.support.support-compat-26.1.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.android.support.support-compat-26.1.0.aar\94689bf83272876fd9260ebd68e2c418\AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [:com.google.android.gms.play-services-auth-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-auth-16.0.1.aar\147db7b6615187bc3821fe2d0584f37c\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [:com.google.android.gms.play-services-auth-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-auth-16.0.1.aar\147db7b6615187bc3821fe2d0584f37c\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-auth-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-auth-16.0.1.aar\147db7b6615187bc3821fe2d0584f37c\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [:com.google.android.gms.play-services-auth-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-auth-16.0.1.aar\147db7b6615187bc3821fe2d0584f37c\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [:com.google.android.gms.play-services-auth-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-auth-16.0.1.aar\147db7b6615187bc3821fe2d0584f37c\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [:com.google.android.gms.play-services-auth-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-auth-16.0.1.aar\147db7b6615187bc3821fe2d0584f37c\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-auth-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-auth-16.0.1.aar\147db7b6615187bc3821fe2d0584f37c\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [:com.google.android.gms.play-services-auth-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-auth-16.0.1.aar\147db7b6615187bc3821fe2d0584f37c\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [:com.google.android.gms.play-services-auth-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-auth-16.0.1.aar\147db7b6615187bc3821fe2d0584f37c\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [:com.google.android.gms.play-services-base-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-base-16.0.1.aar\1f2a49daa2704e529bc4e3c79c4af49e\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-base-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-base-16.0.1.aar\1f2a49daa2704e529bc4e3c79c4af49e\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [:com.google.android.gms.play-services-base-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-base-16.0.1.aar\1f2a49daa2704e529bc4e3c79c4af49e\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [:com.google.android.gms.play-services-base-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-base-16.0.1.aar\1f2a49daa2704e529bc4e3c79c4af49e\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [:com.google.android.gms.play-services-basement-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-basement-16.0.1.aar\ac2d15690fcd68aecba67539655297be\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [:com.google.android.gms.play-services-basement-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-basement-16.0.1.aar\ac2d15690fcd68aecba67539655297be\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [:com.google.android.gms.play-services-basement-16.0.1:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-basement-16.0.1.aar\ac2d15690fcd68aecba67539655297be\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:com.google.android.gms.play-services-nearby-16.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-nearby-16.0.0.aar\3844fb5c1b97203ed75a0ecb51641a15\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [:com.google.android.gms.play-services-nearby-16.0.0:] C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\com.google.android.gms.play-services-nearby-16.0.0.aar\3844fb5c1b97203ed75a0ecb51641a15\AndroidManifest.xml:7:22-76
+meta-data#com.google.android.gms.games.APP_ID
+ADDED from [:GooglePlayGamesManifest.plugin] C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\GooglePlayGamesManifest.plugin\build\intermediates\manifests\full\release\AndroidManifest.xml:18:9-20:49
+	android:value
+		ADDED from [:GooglePlayGamesManifest.plugin] C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\GooglePlayGamesManifest.plugin\build\intermediates\manifests\full\release\AndroidManifest.xml:20:13-46
+	android:name
+		ADDED from [:GooglePlayGamesManifest.plugin] C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\GooglePlayGamesManifest.plugin\build\intermediates\manifests\full\release\AndroidManifest.xml:19:13-63
+meta-data#com.google.android.gms.games.unityVersion
+ADDED from [:GooglePlayGamesManifest.plugin] C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\GooglePlayGamesManifest.plugin\build\intermediates\manifests\full\release\AndroidManifest.xml:23:9-25:43
+	android:value
+		ADDED from [:GooglePlayGamesManifest.plugin] C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\GooglePlayGamesManifest.plugin\build\intermediates\manifests\full\release\AndroidManifest.xml:25:13-40
+	android:name
+		ADDED from [:GooglePlayGamesManifest.plugin] C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\GooglePlayGamesManifest.plugin\build\intermediates\manifests\full\release\AndroidManifest.xml:24:13-69
+activity#com.google.games.bridge.NativeBridgeActivity
+ADDED from [:GooglePlayGamesManifest.plugin] C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\GooglePlayGamesManifest.plugin\build\intermediates\manifests\full\release\AndroidManifest.xml:27:9-29:86
+	android:theme
+		ADDED from [:GooglePlayGamesManifest.plugin] C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\GooglePlayGamesManifest.plugin\build\intermediates\manifests\full\release\AndroidManifest.xml:29:13-83
+	android:name
+		ADDED from [:GooglePlayGamesManifest.plugin] C:\Users\Lenovo\Documents\GantiPanah\PanahArjuna\Temp\gradleOut\GooglePlayGamesManifest.plugin\build\intermediates\manifests\full\release\AndroidManifest.xml:28:13-72

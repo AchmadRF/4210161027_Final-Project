@@ -20,7 +20,7 @@ public class RoomMaker : MonoBehaviourPunCallbacks {
 
     public void Create_ToJoin()
     {
-        PhotonNetwork.CreateRoom(RoomName.text, new RoomOptions { MaxPlayers = 2 }, null);
+        PhotonNetwork.JoinOrCreateRoom(RoomName.text, new RoomOptions { MaxPlayers = 2 }, null);
     }
 
     public override void OnJoinedRoom()
